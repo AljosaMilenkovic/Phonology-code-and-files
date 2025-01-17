@@ -1,0 +1,25 @@
+			Head-H	*NonHd-H	Nonfin	FtBin	WSP	NoFlop-H	Dep-mu	Dep-H	TrochQuant
+			Head-H	*NonHd-H	Nonfin	FtBin	WSP	NoFlop-H	Dep-mu	Dep-H	TrochQuant
+vodA	vo(dA)	0	0	0	1	1	0	0	0	0	0
+	(vodA)	0	1	1	0	0	0	0	0	0	1
+	(vo)dA	0	1	0	0	1	0	0	0	0	0
+	(vO)da	1	0	0	0	1	0	1	0	0	0
+	(voo)dA	0	1	0	0	0	0	0	1	0	0
+	(vOo)da	0	0	0	0	0	0	1	1	0	1
+ruukA	ruu(kA)	0	0	0	1	1	1	0	0	0	0
+	(ruu)kA	1	1	0	0	0	0	0	0	0	0
+	(rUu)ka	0	0	0	0	0	0	1	0	0	1
+brAt	(brAt)	1	0	0	0	1	0	0	0	0	0
+	(brAat)	0	0	0	0	0	0	0	1	0	1
+led	(led)	0	1	0	0	1	0	0	0	0	0
+	(lEd)	0	0	0	0	1	0	0	0	1	0
+	(leed)	1	1	0	0	0	0	0	1	0	0
+	(lEed)	0	0	0	0	0	0	0	1	1	1
+sekIra	se(kI)ra	1	0	0	0	1	0	0	0	0	0
+	(sekI)ra	0	1	1	0	0	0	0	0	0	1
+	se(kIi)ra	0	0	0	0	0	0	0	1	0	1
+prodAavnica	pro(dAav)nica	1	0	0	0	0	0	0	0	0	1
+	(pro)dAavnica	0	1	0	0	1	1	0	0	0	0
+	prodAav(nica)	0	1	0	0	0	1	0	0	0	0
+uraadIse	uraa(dI)se	1	0	0	0	1	1	0	0	0	0
+	u(raa)dIse	0	1	0	0	0	0	0	0	0	0
